@@ -150,7 +150,7 @@ body {
   background-image: url("../images/participant-photo.png");
 }
 #participant-4 .participant-name::before {
-  /* content: "Your Name Here"; */
+  content: "04_Chalothorn(Som/ส้ม)";
 }
 #participant-4 .participant-quote::before {
   /* content: "Your inspirational quote here." */
